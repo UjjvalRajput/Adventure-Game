@@ -1,0 +1,39 @@
+/* Application background */
+.root {
+    -fx-background-color: #000000;
+}
+
+/* Button styles */
+.button {
+    -fx-background-color: #ffff00; /* Bright yellow */
+    -fx-text-fill: #000000; /* Black text */
+    -fx-font-size: 16px;
+    -fx-padding: 6px 12px;
+    -fx-border-color: #ffffff; /* White border */
+    -fx-border-width: 2;
+}
+
+/* Label styles */
+.label {
+    -fx-text-fill: #ffffff; /* White text */
+    -fx-font-size: 16px;
+}
+
+/* Text field styles */
+.text-field {
+    -fx-font-size: 16px;
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #000000;
+    -fx-prompt-text-fill: #666666;
+}
+
+/* Scroll pane styles */
+.scroll-pane {
+    -fx-background-color: #000000;
+    -fx-border-color: #ffffff;
+}
+
+/* Grid pane styles */
+.grid-pane {
+    -fx-background-color: #000000;
+}
